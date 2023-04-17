@@ -49,9 +49,9 @@ Projeto desenvolvido durante estudos sobre Spring Boot e React.
 O layout da aplicação:
 
 ### Web
-<p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Capa.png" width="500px">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Desktop _ Feed.png" width="400px">
+<p align="center" >
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/front-spring.jpeg" width="500px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/front-spring2.jpeg" width="500px">
 </p>
 
 
